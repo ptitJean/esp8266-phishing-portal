@@ -278,7 +278,6 @@ String getValueAtIndex(String data, char separator, int index)
 }
 
 
-
 void loop() {
   // put your main code here, to run repeatedly:
   apDnsServer.processNextRequest();
